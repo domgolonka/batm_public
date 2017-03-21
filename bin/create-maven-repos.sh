@@ -22,6 +22,8 @@ cd $directory
 ./install-lib.sh extra xchange-itbit-4.0.1-SNAPSHOT.jar org.knowm.xchange xchange-itbit 4.0.1-SNAPSHOT
 ./install-lib.sh extra xchange-bittrex-4.0.1-SNAPSHOT.jar org.knowm.xchange xchange-bittrex 4.0.1-SNAPSHOT
 ./install-lib.sh extra xchange-poloniex-4.0.1-SNAPSHOT.jar org.knowm.xchange xchange-poloniex 4.0.1-SNAPSHOT
+./install-lib.sh extra xchange-poloniex-4.0.1-SNAPSHOT.jar org.knowm.xchange xchange-poloniex 4.0.1-SNAPSHOT
+./install-lib.sh extra zxing-core.jar com.google.zxing zxing-core 2.3.0
 
 # TEST dependencies
 ./install-lib.sh test jopt-simple-4.9.jar net.sf.jopt-simple jopt-simple 4.9
